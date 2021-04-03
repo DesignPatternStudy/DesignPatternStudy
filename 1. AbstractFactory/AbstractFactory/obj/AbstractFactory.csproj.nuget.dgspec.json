@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\DesignPatternStudy\\2. Builder\\AnSangYeol\\Builder\\Builder.csproj": {}
+    "D:\\Study\\DesignPatternStudy\\1. AbstractFactory\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "D:\\Study\\DesignPatternStudy\\2. Builder\\AnSangYeol\\Builder\\Builder.csproj": {
+    "D:\\Study\\DesignPatternStudy\\1. AbstractFactory\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\DesignPatternStudy\\2. Builder\\AnSangYeol\\Builder\\Builder.csproj",
-        "projectName": "Builder",
-        "projectPath": "D:\\Study\\DesignPatternStudy\\2. Builder\\AnSangYeol\\Builder\\Builder.csproj",
+        "projectUniqueName": "D:\\Study\\DesignPatternStudy\\1. AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+        "projectName": "AbstractFactory",
+        "projectPath": "D:\\Study\\DesignPatternStudy\\1. AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\an722\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\DesignPatternStudy\\2. Builder\\AnSangYeol\\Builder\\obj\\",
+        "outputPath": "D:\\Study\\DesignPatternStudy\\1. AbstractFactory\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
