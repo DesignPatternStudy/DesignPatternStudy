@@ -1,0 +1,22 @@
+bridge/pattern/payment/Cash.java
+ bridge.pattern.payment.Cash
+bridge/pattern/payment/Payment.java
+ bridge.pattern.payment.Payment
+bridge/raw/Card.java
+ bridge.raw.Card
+bridge/pattern/payment/Card.java
+ bridge.pattern.payment.Card
+bridge/pattern/guideline/CashPaymentGuideline.java
+ bridge.pattern.guideline.CashPaymentGuideline
+bridge/raw/RawApp.java
+ bridge.raw.RawApp
+bridge/raw/Cash.java
+ bridge.raw.Cash
+bridge/raw/Payment.java
+ bridge.raw.Payment
+bridge/pattern/PatternApp.java
+ bridge.pattern.PatternApp
+bridge/pattern/guideline/CardPaymentGuideline.java
+ bridge.pattern.guideline.CardPaymentGuideline
+bridge/pattern/guideline/PaymentGuideline.java
+ bridge.pattern.guideline.PaymentGuideline
