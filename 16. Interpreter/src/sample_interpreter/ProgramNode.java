@@ -1,0 +1,15 @@
+package sample_interpreter;
+// <program> ::= program <command list>에서 <program>을 나타냄
+// <program> ::= program <command list>
+public class ProgramNode extends Node {
+	private Node commandListNode;
+	@Override
+	public void parse(Context context) throws ParseException {
+		context.skipToken("program");
+		commandListNode = new CommandListNode();
+		commandListNode.parse(context);
+	}
+	public String toString() {
+		return "[program " + commandListNode + "]";
+	}
+}
