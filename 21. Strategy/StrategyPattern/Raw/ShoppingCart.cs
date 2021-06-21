@@ -27,9 +27,5 @@ namespace StrategyPattern.Raw {
             }
             return sum;
         }
-
-        public int GetAmount() {
-            return calculateTotal();
-        }
     }
 }

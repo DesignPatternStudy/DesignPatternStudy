@@ -29,8 +29,7 @@ namespace StrategyPattern.UsePattern {
         }
 
         public void pay(IPaymentStrategy paymentMethod) {
-            int amount = calculateTotal();
-            paymentMethod.pay(amount);
+            paymentMethod.pay(calculateTotal());
         }
     }
 }
